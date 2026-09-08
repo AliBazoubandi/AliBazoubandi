@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1D,100:0D292D&height=200&section=header&text=Ali%20Bazoubandi&fontSize=42&fontColor=7CFFCB&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Data%20%26amp%3B%20AI&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/AliBazoubandi">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=20&duration=2800&pause=1200&color=7CFFCB&center=true&vCenter=true&width=560&lines=Backend+Engineering;Data+Engineering+%26amp%3B+SQL;Business+Intelligence;AI+%26amp%3B+Agentic+Systems;Building+Software+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&size=20&duration=2800&pause=1200&color=7CFFCB&center=true&vCenter=true&width=560&lines=Backend+Engineering;Data+Engineering+%20%26amp%3B+SQL;Business+Intelligence;AI+%20%26amp%3B+Agentic+Systems;Building+Software+with+AI" alt="Typing SVG" />
 </a>
 
 <br/>
