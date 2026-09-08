@@ -20,7 +20,7 @@
 
 I'm a software engineer who ended up living inside databases — most of my production work is SQL against PostgreSQL and SQL Server, wrapped in PHP and Python backends inside a large holding company with many industrial subsidiaries. That environment means a lot of my day-to-day is reconciliation logic, ERP integrations, inter-company data flows, and internal tools that have to work correctly the first time, with no room for "we'll patch it later."
 
-Alongside that, I hold a bachelor's in Computer Engineering from SBU and I'm working through a master's in AI in Medicine, which pulled me deeper into how AI systems are actually built rather than just used. These days that shows up as a real interest in agentic systems — AI that can call tools, chain decisions, and act inside a workflow rather than just answer questions. I'm not trying to be a researcher; I'm the engineer who reads the paper on Monday and has a working prototype by Friday. Long term, I'd like to turn some of what I've learned building internal business systems into something of my own.
+Alongside that, I hold a bachelor's in Computer Engineering from Shahid Beheshti University (SBU) and I'm working through a master's in AI in Medicine, which pulled me deeper into how AI systems are actually built rather than just used. These days that shows up as a real interest in agentic systems — AI that can call tools, chain decisions, and act inside a workflow rather than just answer questions. I'm not trying to be a researcher; I'm the engineer who reads the paper on Monday and has a working prototype by Friday. Long term, I'd like to turn some of what I've learned building internal business systems into something of my own.
 
 <br/>
 
@@ -79,14 +79,14 @@ Going deeper into the framework and architecture side of ecosystems I already us
 
 **[ClickClack](https://github.com/AliBazoubandi/ClickClack)**
 
-A recent software project of mine.
+A tiny pixel-art typewriter companion for your desktop, powered by your Obsidian tasks.
 
 </td>
 <td width="50%">
 
 **[Competitor Price Intelligence](https://github.com/AliBazoubandi/competitor-price-intelligence)**
 
-Competitor price monitoring and product matching, combining SQL, APIs, and automation — sits right at the intersection of data engineering and business intelligence.
+Real-time competitor price intelligence, multi-city harvesting (Snapp & Okala), AI product matching, and ERP pricing room with Jalali calendar support.
 
 </td>
 </tr>
@@ -95,14 +95,14 @@ Competitor price monitoring and product matching, combining SQL, APIs, and autom
 
 **[Baykood](https://github.com/AliBazoubandi/Baykood)**
 
-An agriculture / e-commerce web project.
+Full-featured Persian RTL agriculture e-commerce site built with Django & Tailwind CSS
 
 </td>
 <td width="50%">
 
 **[Bale-Telegram-Bot](https://github.com/AliBazoubandi/Bale-Telegram-Bot)**
 
-A bot/integration project linking Bale and Telegram — API integration, automation, and backend messaging logic.
+A unified notification dispatch system and REST API for Telegram and Bale messenger bots with contact management and admin dashboard.
 
 </td>
 <td width="50%">
