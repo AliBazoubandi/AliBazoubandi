@@ -49,7 +49,7 @@ Going deeper into the framework and architecture side of ecosystems I already us
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,php,go,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,go,java,cs&theme=dark" />
 
 **Data & SQL**
 
@@ -64,6 +64,8 @@ Going deeper into the framework and architecture side of ecosystems I already us
 `REST APIs` · `Database Integrations` · `Backend Systems`
 
 **AI**
+
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" />
 
 `LLMs` · `AI Agents` · `Agentic Workflows` · `AI-assisted Development` · `AI Chatbots` · `AI Coding Agents`
 
@@ -101,6 +103,35 @@ Full-featured Persian RTL agriculture e-commerce site built with Django & Tailwi
 **[Bale-Telegram-Bot](https://github.com/AliBazoubandi/Bale-Telegram-Bot)**
 
 A unified notification dispatch system and REST API for Telegram and Bale messenger bots with contact management and admin dashboard.
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Intelligent-BPM](https://github.com/AliBazoubandi/Intelligent-BPM)**
+
+Intelligent Business Process Management (BPM) platform featuring an autonomous AI evaluation agent and Persian RAG assistant.
+
+</td>
+<td width="50%">
+
+**[data-gateway](https://github.com/AliBazoubandi/data-gateway)**
+
+gateway for running pre-approved SQL queries against MariaDB/MySQL, SQL Server, and PostgreSQL. Authenticated clients submit request codes (never raw SQL); results return as time-limited JSON file links via delayed (background + webhook/polling) or instant (synchronous inline) modes. Includes an admin control room.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[family-library-3d](https://github.com/AliBazoubandi/family-library-3d)**
+
+An immersive 3D & 2D family library web app built with Three.js, Vite, and PocketBase. Explore an interactive neighborhood, drive between family houses, browse dynamic 3D bookshelves in cozy reading rooms with realistic animations, and manage book lending.
+</td>
+<td width="50%">
 
 </td>
 <td width="50%">
